@@ -10,7 +10,7 @@ Proyek ini dibuat untuk latihan data science sederhana — memprediksi apakah ma
 
 ### **1️⃣ Clone Repository**
 ```
-git clone https://github.com/0xRopik/pertemuan5
+git clone https://github.com/naufalalhaidar/pertemuan5
 cd pertemuan5
 ```
 2️⃣ Install Dependencies
@@ -55,5 +55,3 @@ Kirim data JSON via Postman:
 ✅ Grafik ROC-AUC (roc_test.png)
 ✅ API Prediksi Sederhana (app.py)
 
-🧾 Penulis
-Nama: Muhamad Ropik
